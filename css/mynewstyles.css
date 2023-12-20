@@ -1,0 +1,53 @@
+
+
+body{
+    background-image: url(https://img.fcbayern.com/image/upload/t_cms-2x1/f_auto/w_1600,c_fill/q_auto/v1688540333/cms/public/images/fcbayern-com/homepage/stadien/allianz-arena/230419-allianz-arena-get.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.tabluae{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+li{
+    background-color: rgba(165, 42, 42, 0.917);
+    font-family: 'Comic Sans MS', Calibri, Times New Roman;
+
+}
+h1{
+    font-family: 'Comic Sans MS', Calibri, Times New Roman;
+    background-color: rgba(165, 42, 42, 0.917);
+
+}
+
+.header{
+    position: center;
+    top: 15px;
+    display: block;
+    text-align: center;
+    font-family: 'Comic Sans MS', Calibri, Times New Roman;
+}
+
+.thetube{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    font-family: 'Comic Sans', 'Courier New', Courier, monospace;
+    background-color: rgba(165, 42, 42, 0.917);
+    display: inline-block;
+    margin: auto;
+}
+h3{
+    font-family: 'Comic Sans', 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: rgba(165, 42, 42, 0.917);
+    margin: auto;
+}

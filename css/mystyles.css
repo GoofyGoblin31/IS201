@@ -1,0 +1,14 @@
+.mb-2{
+    width: 500px
+}
+
+h2{
+    font-family: 'Comic Sans', 'Courier New', Courier, monospace;
+}
+.darkcolor{
+    background-color: blue !important;
+}
+.blue{
+    -webkit-text-fill-color: blue !important;
+    margin-bottom: 3rem
+}
